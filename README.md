@@ -7,7 +7,7 @@ Dans le dossier src, le fichier quadtree.py contient le code qui transforme les 
 
 Enfin le dossier tests contient deux tests qui valident le bon fonctionnement du code présent dans quadtree.py.
 
-# Fonctionnalitées à implémenter 
+# Fonctionnalités à implémenter 
 
 La création de l'interface graphique doit encore être terminée dans le fichier main.py
 
