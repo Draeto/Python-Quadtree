@@ -1,7 +1,7 @@
 # Travail Arbre quaternaire
 Ce travail à été réalisé dans le cadre de ma licence en Data IA. Le but est de générer un arbre quaternaire depuis une liste ou un fichier contenant une liste.
 
-#Fonctionnement
+# Fonctionnement
 
 Dans le dossier src, le fichier quadtree.py contient le code qui transforme les fichiers ou listes en objets Quadtree. Ensuite le fichier main.py est celui qui doit prendre le quadtree générer pour l'implémenter dasn une interface graphique via la bibliothèque pygame.
 
